@@ -1,0 +1,20 @@
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\bin\Debug\Vectores.exe
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\bin\Debug\Vectores.pdb
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\bin\Debug\Vectores.xml
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\obj\x86\Debug\Vectores.Form1.resources
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\obj\x86\Debug\Vectores.Resources.resources
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\obj\x86\Debug\Vectores.vbproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\obj\x86\Debug\Vectores.exe
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\obj\x86\Debug\Vectores.xml
+c:\users\alumno\documents\visual studio 2010\Projects\Vectores\Vectores\obj\x86\Debug\Vectores.pdb
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.vbproj.AssemblyReference.cache
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.Form1.resources
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.Resources.resources
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.vbproj.GenerateResource.cache
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.vbproj.CoreCompileInputs.cache
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.xml
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.pdb
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\bin\Debug\Vectores.exe
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\bin\Debug\Vectores.pdb
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\bin\Debug\Vectores.xml
+D:\5°1°\Programacion orientada a objetos\Vbnet\Vectores\Vectores\obj\x86\Debug\Vectores.exe
